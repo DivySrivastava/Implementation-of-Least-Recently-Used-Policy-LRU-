@@ -1,4 +1,4 @@
-// A C program to show implementation of LRU cache
+// A C++ program to show implementation of LRU cache
 #include <stdio.h>
 #include <stdlib.h>
 // A Queue Node (Queue is implemented using Doubly Linked List)
